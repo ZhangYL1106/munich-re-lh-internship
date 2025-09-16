@@ -17,3 +17,6 @@
 - (Coming soon) small SQL scripts for duplicate detection and tie-out queries.
 
 ## Repo structure (planned)
+
+## Notes
+All data/materials here are **synthetic/public**. No client or proprietary information.
